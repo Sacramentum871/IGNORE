@@ -3,3 +3,8 @@ tmp/
 *_backup
 Thumbs.db
 .DS_Store
+.gitignore
+css/
+img/
+js/
+*.html
